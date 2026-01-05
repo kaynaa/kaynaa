@@ -16,4 +16,4 @@ I'm a second-year Computer Science, Statistics, and Economics student at Univers
 
 ### 🤝 Connect
 * [LinkedIn](https://www.linkedin.com/in/kayna-mufidah/)
-* [Email](kayna.mufidah@mail.utoronto.ca)
+* [Email](mailto:kayna.mufidah@mail.utoronto.ca)
