@@ -1,6 +1,6 @@
 # Hi, I'm Kayna 👋
 
-I'm a second-year Computer Science, Statistics, and Economics student at University of Toronto interested in software development, machine learning, and data analytics.
+I'm a third-year Computer Science, Statistics, and Economics student at University of Toronto interested in software development, machine learning, and data analytics.
 
 Check out my profile at https://kaynaa.github.io/
 
